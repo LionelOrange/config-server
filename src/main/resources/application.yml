@@ -5,10 +5,10 @@ spring:
     config:
       server:
         git:
-          uri: 127.0.0.1
-          search-paths: /learn
-          username: asd
-          password: sad
+          uri: https://github.com/LionelOrange/config-server
+          search-paths: config
+          username: xxx
+          password: xxx
 
 server:
   port: 7001
