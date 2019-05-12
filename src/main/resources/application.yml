@@ -7,8 +7,8 @@ spring:
         git:
           uri: https://github.com/LionelOrange/config-server
           search-paths: config
-          username: xxx
-          password: xxx
+          username: xx
+          password: xx
 
 server:
   port: 7001
